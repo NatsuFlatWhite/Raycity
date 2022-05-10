@@ -80,7 +80,7 @@ move - You can move to a reset position near the coordinates you entered. (Go to
 
 pos - It tells you the coordinates of where you are
 
-goto - Field move command (kr d1 n1 g1 t1 t2 t3 t4 t5 tutorial r1 l1 l2 f1~f6 b1~b5)
+goto - Field move command (kr d1 n1 g1 t1 t2 t3 t4 t5 tutorial r1 l1 l2 f1 f2 f3 f4 f5 f6 b1 b2 b3 b4 b5)
 
 freecam - Camera Free view
 
