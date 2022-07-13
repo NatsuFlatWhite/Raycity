@@ -1,8 +1,6 @@
 #### This project is currently on a temporary hiatus indefinitely.
 ## Raycity Client or Tools
-https://drive.google.com/file/d/1MXf-bWQRFGvc7D5m7Y7QLwMy9Hgh5xMu/view (Server + Client + DB + Tools)
-
-https://drive.google.com/file/d/1kOW9Z_SOo3PGRzcsXoKW0Mr5URvfrHR7/view?usp=sharing (Daily Tool comdlg32.ocx)
+https://drive.google.com/file/d/1OfNaw38EOSfhIWuixs0CWiziDXXGeREV/view?usp=sharing (Server + Client + DB + Tools)
 
 https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads (Mssql 2019)
 
