@@ -9,11 +9,11 @@ CarShop Legend Slot (Client -> Data -> ui -> shopstage)
 
 New Town traffic cars
 
-Saha Tunnel Village(Dark City Town) Portal opened in Dogok-dong Village
+Saha Tunnel Village Portal opened in Dogok-dong Village
 
 UsepassPatcher (Available in all versions)
 
-Loginstage 게임이용등급 load (However, it disappears when you login to the game.) 
+Loginstage GameGrade load (However, it disappears when you login to the game.) 
 
 Skill use information loads properly
 
