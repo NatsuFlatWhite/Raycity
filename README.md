@@ -2,7 +2,11 @@
 ## Raycity Client or Tools
 https://drive.google.com/file/d/1OfNaw38EOSfhIWuixs0CWiziDXXGeREV/view?usp=sharing (Server + Client + DB + Tools)
 
-https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads (Mssql 2019)
+https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads (MSSQL 2019)
+
+<!-- ## Server Setup Guide
+
+준비중. -->
 
 ## Complete Fix
 CarShop Legend Slot (Client -> Data -> ui -> shopstage)
