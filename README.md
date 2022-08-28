@@ -33,7 +33,10 @@ The Jamsil portal in the COEX Town has been modified to work for the client
 Quest NPC illustration load normally
 
 ### Etc
+<!-- 더미트랙 삭제는 클라이언트에서 진행해 주세요. 레이스 서버 xml은 굳이 건들 필요 없어요! 
+서버에 할당이 안되어있는 트랙이면 선택이 안됩니다. 그래서 서버쪽 xml은 냅두는편이 좋아요. -->
 
+<!-- 펜스는 역시 600 이후 버전의 유물 파란펜스 -->
 Changed the field racing fence to blue
 
 Added a dummy racing track (A track that has been removed from the official server has also been added)
@@ -53,7 +56,7 @@ Some of the items on the itemlist have been translated into Korean
 Thank you for being with me, Naro and Rerverse
 
 ## Admin Console
-
+<!-- 최초 작성 211118 나로 / 번역본 업로드 220510 -->
 After changing the GlobalAccount -> RC_Account -> AccountState value to 126 register the admin IP in the AdminIPList to activate the admin console
 
 ### Command List
@@ -106,7 +109,7 @@ movplay - Automated driving without destination (Value : 0 stop 1 start)
 loadenv - Change the weather (sunset, day, sunrise, night, night_kr, night_d1)
 
 ## Config.xml
-
+<!-- 카트라이더의 KartRider.xml , 에버플래닛의 GameClient.xml과 동일한 형식 카트라이더 개발진 어디 안간다! ㅋㅋㅋ-->
 This xml file is a file that activates the private command contained in Raycity.exe.
 
 Currently, we are constantly looking for commands, and there are commands that do not work.
