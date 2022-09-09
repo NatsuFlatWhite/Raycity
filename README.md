@@ -1,5 +1,5 @@
 #### This project is currently on a temporary hiatus indefinitely.
-<!-- 마지막 수정 : 2022 / 08 / 28 -->
+<!-- 마지막 수정 : 2022 / 09 / 09 -->
 ## Raycity Client or Tools
 https://drive.google.com/file/d/1OfNaw38EOSfhIWuixs0CWiziDXXGeREV/view?usp=sharing (Server + Client + DB + Tools)
 
@@ -32,7 +32,7 @@ The Jamsil portal in the COEX Town has been modified to work for the client
 
 Quest NPC illustration load normally
 
-### Etc
+### Racing
 <!-- 더미트랙 삭제는 클라이언트에서 진행해 주세요. 레이스 서버 xml은 굳이 건들 필요 없어요! 
 서버에 할당이 안되어있는 트랙이면 선택이 안됩니다. 그래서 서버쪽 xml은 냅두는편이 좋아요. -->
 
