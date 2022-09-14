@@ -129,3 +129,10 @@ bypassMode , usePerfHud , carRenderLod2 , cameraRot , rawFolder , iamshuruk
 iamqa , enableDevInfo - It's an internal developer team command, but I couldn't find a use for it.
 
 dataPackOff - A command that allows me to run the game with DataRaw(unpacked), but it doesn't work.
+
+
+<!-- # 리얼 엑스 관련여담
+
+1. 레이스와 안나가 올린 저격글은 "레인판매"를 제외하고 전부 거짓된 저격이다.
+2.레인 판매는 전부 사실이다.
+3.죄송합니다. -->
