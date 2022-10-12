@@ -1,5 +1,5 @@
 #### This project is currently on a temporary hiatus indefinitely.
-<!-- 마지막 수정 : 2022 / 09 / 09 -->
+<!-- 마지막 수정 : 2022 / 10 / 13 -->
 ## Raycity Client or Tools
 https://drive.google.com/file/d/1OfNaw38EOSfhIWuixs0CWiziDXXGeREV/view?usp=sharing (Server + Client + DB + Tools)
 
@@ -31,6 +31,33 @@ NPC mission on the field are partially functional
 The Jamsil portal in the COEX Town has been modified to work for the client
 
 Quest NPC illustration load normally
+
+<!-- 609 버전 업 / 2022 - 10 - 11
+클라이언트 패킷 분석 완료 및 데이터베이스 프로시저와 테이블 수정 완료
+한국 클라이언트 사용 가능 다만 609 한국 클라이언트가 없어서 미완성 627 서버로 실행해야함
+버전업 진행 과정에서 고친 기능 리스트
+
+유저 레벨 50
+초광속의 영역
+시즌 상점
+NPC 기능
+빙고
+기타 스트링백 
+게임 전체이용가 등급 안내 (%d 시간째 운전 중 입니다. 과도한 게임이용은 정상적인 일상생활에 지장을 줄 수 있습니다.)
+도우미 기능 (도움주기 도움받기)
+캡슐과 부적
+미션
+퀘스트
+레이싱 트랙 텍스쳐 깨짐 현상 (부산 , F1)
+전반적인 길드 시스템
+코팅 페인트 부스터 페인트 2차 외형 골드 키
+필드 시간대 자동 변경
+전반적인 다크시티 기능들
+레이스 UI 2 , 아이템 모드
+폭주
+레벨 부스터
+낭만이 있는 네오위즈 인트로와 EA 인트로
+미공개 개발자 전용 시스템 -->
 
 ### Racing
 <!-- 더미트랙 삭제는 클라이언트에서 진행해 주세요. 레이스 서버 xml은 굳이 건들 필요 없어요! 
