@@ -1,4 +1,5 @@
-#### This project is currently on a temporary hiatus indefinitely.
+<!-- 임시 이미지 -->
+<img src="https://media.discordapp.net/attachments/1007603247491579904/1033733193607692308/rc.png"  width="auto" height="auto">
 <!-- 마지막 수정 : 2022 / 10 / 13 -->
 ## Raycity Client or Tools
 https://drive.google.com/file/d/1OfNaw38EOSfhIWuixs0CWiziDXXGeREV/view?usp=sharing (Server + Client + DB + Tools)
@@ -7,7 +8,7 @@ https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads (MSSQL 2019)
 
 <!-- ## Server Setup Guide
 
-준비중 (예정에는 있는데 아직 모르겠음) -->
+준비중 -->
 
 ## Note
 CarShop Legend Slot (Client -> Data -> ui -> shopstage)
@@ -73,10 +74,6 @@ LegendPoint ( 1~2 동 3~4 은 5~6 금)
 미공개 개발자 전용 시스템 -->
 
 ### Racing
-<!-- 더미트랙 삭제는 클라이언트에서 진행해 주세요. 레이스 서버 xml은 굳이 건들 필요 없어요! 
-서버에 할당이 안되어있는 트랙이면 선택이 안됩니다. 그래서 서버쪽 xml은 냅두는편이 좋아요. -->
-
-<!-- 펜스는 역시 600 이후 버전의 유물 파란펜스 -->
 Changed the field racing fence to blue
 
 Added a dummy racing track (A track that has been removed from the official server has also been added)
