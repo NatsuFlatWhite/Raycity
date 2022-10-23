@@ -95,7 +95,7 @@ Thank you for being with me, Naro and Rerverse
 
 ## Admin Console
 <!-- 최초 작성 211118 나로 / 번역본 업로드 220510 -->
-After changing the GlobalAccount -> RC_Account -> AccountState value to 126 register the admin IP in the AdminIPList to activate the admin console
+After changing the GlobalAccount -> RC_Account -> AccountState value to 126 Change the admin IP in the AdminIPList to activate the admin console
 
 ### Command List
 help - You can check some commands
