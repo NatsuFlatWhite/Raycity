@@ -1,6 +1,7 @@
-<!-- 임시 이미지 -->
-<img src="https://media.discordapp.net/attachments/1007603247491579904/1033733193607692308/rc.png"  width="auto" height="auto">
+<!-- 임시 이미지 
+<img src="https://media.discordapp.net/attachments/1007603247491579904/1033733193607692308/rc.png"  width="auto" height="auto"> -->
 <!-- 마지막 수정 : 2022 / 10 / 13 -->
+
 ## Raycity Client or Tools
 https://drive.google.com/file/d/1OfNaw38EOSfhIWuixs0CWiziDXXGeREV/view?usp=sharing (Server + Client + DB + Tools)
 
