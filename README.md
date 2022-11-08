@@ -2,10 +2,10 @@
 <img src="https://media.discordapp.net/attachments/1007603247491579904/1033734437160091679/rc.png"  width="128" height="auto">
 <!-- 마지막 수정 : 2022 / 11 / 08 -->
 
-## Raycity Client or Tools
-[Server + Client + DB + Tools](https://drive.google.com/file/d/1FqvwlxtqDCkRy7KGYMwytcfSkeZxE_gc/view?usp=share_link)
+## Raycity Client
+[Server + Client + DB](https://drive.google.com/file/d/1FqvwlxtqDCkRy7KGYMwytcfSkeZxE_gc/view?usp=share_link)
 
-[MSSQL 2019](https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads)
+[Microsoft Sql Server 2019](https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads)
 
 <!-- ## Server Setup Guide
 
