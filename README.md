@@ -1,6 +1,7 @@
 <!-- 임시 이미지 -->
 <img src="https://media.discordapp.net/attachments/1007603247491579904/1033734437160091679/rc.png"  width="128" height="auto">
-<!-- 마지막 수정 : 2022 / 11 / 08 -->
+<!-- 마지막 수정 : 2022 / 11 / 12 -->
+<!-- 리얼엑스에서 활동했었을 때 임시로 만들었던 코엑스 파일 업로드 22/11/12 -->
 
 ## Raycity Client
 [Server + Client + DB](https://drive.google.com/file/d/1FqvwlxtqDCkRy7KGYMwytcfSkeZxE_gc/view?usp=share_link)
