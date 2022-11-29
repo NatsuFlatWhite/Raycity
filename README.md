@@ -1,7 +1,8 @@
 <!-- 임시 이미지 나중에 바꿀듯? -->
 <img src="https://media.discordapp.net/attachments/1007603247491579904/1033734437160091679/rc.png"  width="128" height="auto">
-<!-- 마지막 수정 : 2022 / 11 / 29 -->
+<!-- 마지막 수정 : 2022 / 11 / 30 -->
 <!-- 리얼엑스에서 활동했었을 때 임시로 만들었던 코엑스 파일 업로드 22/11/12 -->
+<!-- 서버 설치 가이드 작성 22 / 11 / 30 -->
 
 ## Raycity Client
 [Server + Client + DB](https://drive.google.com/file/d/1FqvwlxtqDCkRy7KGYMwytcfSkeZxE_gc/view?usp=share_link)
@@ -24,9 +25,9 @@ GameServer , Agent - config.xml
 
 enter your IP
 
-To connect the DB to the center server you must enter the server address, ID, ,password in config.xml
+To connect the DB to the center server you must enter the server address, ID, password in config.xml
 
-### Client IP
+### Client
 Tools -> Daily Tools -> thunterhk.exe -> Client -> 0m decrypt -> Raycity.0m Select
 
 [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20)
