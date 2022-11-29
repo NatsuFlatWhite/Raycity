@@ -1,4 +1,4 @@
-<!-- 임시 이미지 -->
+<!-- 임시 이미지 나중에 바꿀듯? -->
 <img src="https://media.discordapp.net/attachments/1007603247491579904/1033734437160091679/rc.png"  width="128" height="auto">
 <!-- 마지막 수정 : 2022 / 11 / 29 -->
 <!-- 리얼엑스에서 활동했었을 때 임시로 만들었던 코엑스 파일 업로드 22/11/12 -->
@@ -25,7 +25,7 @@ Loginstage GameGrade load (However, it disappears when you login to the game.)
 
 Skill use information loads properly
 
-You can enable news by changing the news URL in Raycity.0m to a local host or using hosting.
+You can enable news by changing the news host URL in Raycity.0m to a local host or using hosting
 
 profile creation system Fixed Now it works fine. 
 
