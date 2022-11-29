@@ -8,9 +8,34 @@
 
 [Microsoft Sql Server 2019](https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads)
 
-<!-- ## Server Setup Guide
+## Server Setup Guide
 
-준비중 -->
+### DataBase
+Microsoft Sql Server 2019 install
+
+[Database Restore](https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/restore-a-database-backup-using-ssms?view=sql-server-ver16)
+
+Sql Server Configuration Manager ->  SQL Native Client 11.0 -> Client protocol Change all to Enabled
+
+### Server
+CenterServer - config.xml info_server.xml
+
+GameServer , Agent - config.xml
+
+enter your IP
+
+To connect the DB to the center server you must enter the server address, ID, ,password in config.xml
+
+### Client IP
+Tools -> Daily Tools -> thunterhk.exe -> Client -> 0m decrypt -> Raycity.0m Select
+
+[HxD](https://mh-nexus.de/en/downloads.php?product=HxD20)
+
+Modify the server IP and port through HxD
+
+Change the Port from 2180 to 2080
+
+thunterhk.exe -> Client -> 0m encrypt
 
 ## Note
 CarShop Legend Slot (Client -> Data -> ui -> shopstage)
