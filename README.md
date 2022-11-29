@@ -10,7 +10,7 @@
 [Microsoft Sql Server 2019](https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads)
 
 ## Server Setup Guide
-
+- The current database and server have not fully recovered and are incomplete
 ### DataBase
 Microsoft Sql Server 2019 install
 
