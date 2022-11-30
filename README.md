@@ -137,6 +137,24 @@ loadenv - Change the weather (sunset, day, sunrise, night, night_kr, night_d1)
 <!-- 카트라이더의 KartRider.xml , 에버플래닛의 GameClient.xml과 동일한 형식 카트라이더 개발진 어디 안간다! ㅋㅋㅋ-->
 
 <!-- 작동이 안되는 명령어들은 0m에서 작동하는지 확인중.. -->
+
+<!-- usePerfHud
+carRenderLod2
+dataPackOff
+channel
+server
+loginId
+enable
+bypassMode
+iamqa
+1122qq
+pw
+iamshuruk
+passLoading
+enableDevInfo
+cameraRot
+autoRUN
+rawFolder -->
 This xml file is a file that activates the private command contained in Raycity.exe
 
 Currently, we are constantly looking for commands, and there are commands that do not work.
