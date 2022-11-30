@@ -78,7 +78,7 @@ All translations of the arealist have been completed
 
 Some of the items on the itemlist have been translated into Korean
 
-Thank you for being with me, Naro and Rerverse
+Thank you for being with me, Naro and Reverse
 
 ## Admin Console
 <!-- 최초 작성 211118 나로 / 번역본 업로드 220510 -->
