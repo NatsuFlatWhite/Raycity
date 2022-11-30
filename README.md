@@ -1,5 +1,5 @@
 <!-- 임시 이미지 나중에 바꿀듯? -->
-<img src="https://ibb.co/Z1FHyWZ](https://i.postimg.cc/KYWJx6M9/rc.png"  width="128" height="auto">
+<img src="https://cdn.discordapp.com/attachments/1007603247491579904/1033734437160091679/rc.png"  width="128" height="auto">
 <!-- 마지막 수정 : 2022 / 11 / 30 -->
 <!-- 리얼엑스에서 활동했었을 때 임시로 만들었던 코엑스 파일 업로드 22/11/12 -->
 <!-- 서버 설치 가이드 작성 22 / 11 / 30 -->
