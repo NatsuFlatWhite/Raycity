@@ -1,12 +1,19 @@
 <!-- 임시 이미지 나중에 바꿀듯? -->
 <img src="https://cdn.discordapp.com/attachments/1007603247491579904/1033734437160091679/rc.png"  width="128" height="auto">
-<!-- 마지막 수정 : 2022 / 11 / 30 -->
+<!-- 마지막 수정 : 2022 / 12 / 10 -->
 <!-- 리얼엑스에서 활동했었을 때 임시로 만들었던 코엑스 파일 업로드 22/11/12 -->
 <!-- 서버 설치 가이드 작성 22 / 11 / 30 -->
+<!-- 과연 레이시티가 누군가의 의해 오픈소스로 627서버를 배포하는 날이 올까요? 
+현재의 레이시티 개발자들은 몇몇 사람들 빼곤 단순한 패킷 분석도 하지 못합니다. 
+단순한 클라이언트 버전 업그레이드도 못하고 있네요. 사실상 일반적인 개발자는 많이 쳐야 609까지 밖에 못간다고 생각합니다.
+리버스가 627 서버를 공개하는게 아닌 이상 완전히 복원된 레이시티를 플레이 하기는 힘들다고 생각합니다.
+저 역시 독자적으로 에뮬레이터를 개발하고 있고 데이터베이스를 복원하고 있지만 제 능력 부족으로 한계점은 결코 존재합니다.
+저의 어린시절에 이 게임성에 빠져 열심히 플레이했던 게임인 만큼 좋은 일이 있었으면 좋겠습니다.
+다들 포기하지 않고 열심히 해주셨으면 좋겠어요. -->
 
 ## Raycity Client
 [Server + Client + DB](https://drive.google.com/file/d/1FqvwlxtqDCkRy7KGYMwytcfSkeZxE_gc/view?usp=share_link)
-
+<!-- 레이시티 갤러리에서 공개했던 데이터베이스 -->
 [Microsoft Sql Server 2019](https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads)
 
 ## Server Setup Guide
@@ -132,12 +139,13 @@ inventory - You can check the items you have in the inventory window
 movplay - Automated driving without destination (Value : 0 stop 1 start)
 
 loadenv - Change the weather (sunset, day, sunrise, night, night_kr, night_d1)
-
+<!-- 콘솔 명령어도 찾아야 하는데... -->
 ## Config.xml
 <!-- 카트라이더의 KartRider.xml , 에버플래닛의 GameClient.xml과 동일한 형식 카트라이더 개발진 어디 안간다! ㅋㅋㅋ-->
 
 <!-- 작동이 안되는 명령어들은 0m에서 작동하는지 확인중.. -->
 
+<!-- 이 명령어의 순서는 rawFolder부터 시작해서 usePerfHud가 마지막이다. 위 2개의 게임을 통해 이 xml을 알고있다면 무슨 말인지 알 수 있다. -->
 <!-- usePerfHud
 carRenderLod2
 dataPackOff
@@ -175,6 +183,8 @@ iamqa , enableDevInfo - It's an internal developer team command, but I couldn't 
 
 dataPackOff - A command that allows me to run the game with DataRaw(unpacked), but it doesn't work.
 
+<!-- ## Server Packet List
+패킷 정리가 완료되면 업로드 예정 -->
 
 <!-- # 리얼 엑스 관련여담
 
