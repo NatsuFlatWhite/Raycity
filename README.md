@@ -1,6 +1,6 @@
 <!-- 임시 이미지 나중에 바꿀듯? -->
 <img src="https://cdn.discordapp.com/attachments/1007603247491579904/1033734437160091679/rc.png"  width="128" height="auto">
-<!-- 마지막 수정 : 2022 / 12 / 10 -->
+<!-- 마지막 수정 : 2022 / 12 / 11 -->
 <!-- 리얼엑스에서 활동했었을 때 임시로 만들었던 코엑스 파일 업로드 22/11/12 -->
 <!-- 서버 설치 가이드 작성 22 / 11 / 30 -->
 <!-- 과연 레이시티가 누군가의 의해 오픈소스로 627서버를 배포하는 날이 올까요? 
@@ -17,6 +17,10 @@
 [Microsoft Sql Server 2019](https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads)
 
 ## Server Setup Guide
+- The Raycity server is optimized for SEA 590 (Release date : 2011-07-29)
+<!-- 많은 사람들이 이 서버는 580에 맞게 제작된 서버라고 이야기 하지만 580은 11년 4월까지 사용된 버전이며 다크시티가 출시되지 않았음..
+하지만 SEA 590은 이때 다크시티가 출시 되었다. 또 한 서버가 릴리즈 된 날짜와 거의 같은걸 생각하면 590이라 95% 확신중..
+한국에서는 591에 다크시티가 출시된 걸 생각한다면 590은 SEA 내수용 버전이라 생각이 된다. (아닐수도 있음.. 너무 정보와 자료가 없어서..) -->
 - **The current database and server have not fully recovered and are incomplete**
 ### DataBase
 Microsoft Sql Server 2019 install
@@ -141,9 +145,7 @@ movplay - Automated driving without destination (Value : 0 stop 1 start)
 loadenv - Change the weather (sunset, day, sunrise, night, night_kr, night_d1)
 <!-- 콘솔 명령어도 찾아야 하는데... -->
 ## Config.xml
-<!-- 카트라이더의 KartRider.xml , 에버플래닛의 GameClient.xml과 동일한 형식 카트라이더 개발진 어디 안간다! ㅋㅋㅋ-->
-
-<!-- 작동이 안되는 명령어들은 0m에서 작동하는지 확인중.. -->
+<!-- 카트라이더의 KartRider.xml , 에버플래닛의 GameClient.xml과 동일한 형식 카트라이더 개발진 어디 안간다! ㅋㅋㅋ -->
 
 <!-- 이 명령어의 순서는 rawFolder부터 시작해서 usePerfHud가 마지막이다. 위 2개의 게임을 통해 이 xml을 알고있다면 무슨 말인지 알 수 있다. -->
 <!-- usePerfHud
@@ -167,9 +169,7 @@ This xml file is a file that activates the private command contained in Raycity.
 
 Currently, we are constantly looking for commands, and there are commands that do not work.
 
-It is speculative, but some commands seem to be used in combination with other commands.
-
-(ex. <datapackOff rawFolder＝'Raycity\DataRaw' />
+some commands seem to be used in combination with other commands.
 
 #### Available command
 passLoading - It forcibly skips the intro that appears when launching the game and moves to the login screen.
@@ -191,5 +191,15 @@ dataPackOff - A command that allows me to run the game with DataRaw(unpacked), b
 1. 레이스와 안나가 올린 저격글은 "레인판매"를 제외하고 전부 거짓된 저격이다.
 2.레인 판매는 전부 사실이다.
 3.죄송합니다. -->
-<!-- 학교 관련 일 때문에 프로젝트 임시 중단.. 그래도 시간 날 때 분석이라도 해보자! 
-627 서버의 완성은 언제쯤..... -->
+
+<!-- 아랑드롱 박
+-1579.264 -588.0891 29.36226
+
+큐라백작
+-5825.348 6864.091 27.10461
+
+완소희
+-1619.394 8157.803 16.42972
+
+도매상 부쉬
+2212.535 780.2515 14.56935 -->
