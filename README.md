@@ -1,3 +1,4 @@
+<!-- 게임이라는 취미는 잠시 멀리하고 제 인생의 터닝포인트를 집중해야 할 시간이라고 생각합니다. 다들 힘내시길 바랍니다. -->
 <img src="https://cdn.discordapp.com/attachments/1007603247491579904/1033734437160091679/rc.png"  width="128" height="auto">
 
 ## Raycity Client
