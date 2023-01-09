@@ -1,4 +1,3 @@
-<!-- 임시 이미지 나중에 바꿀듯? -->
 <img src="https://cdn.discordapp.com/attachments/1007603247491579904/1033734437160091679/rc.png"  width="128" height="auto">
 
 ## Raycity Client
@@ -9,6 +8,7 @@
 ## Server Setup Guide
 - The Raycity server is optimized for SEA 590 (Release date : 2011-07-29)
 - **The current database and server have not fully recovered and are incomplete**
+- [Developer Discord](https://discord.gg/DRBYQnpS5S)
 ### DataBase
 Microsoft Sql Server 2019 install
 
@@ -131,38 +131,22 @@ movplay - Automated driving without destination (Value : 0 stop 1 start)
 loadenv - Change the weather (sunset, day, sunrise, night, night_kr, night_d1)
 
 ## Config.xml
-<!-- usePerfHud
-carRenderLod2
-dataPackOff
-channel
-server
-loginId
-enable
-bypassMode
-iamqa
-1122qq
-pw
-iamshuruk
-passLoading
-enableDevInfo
-cameraRot
-autoRUN
-rawFolder -->
 This xml file is a file that activates the private command contained in Raycity.exe
 
 Currently, we are constantly looking for commands, and there are commands that do not work.
 
 some commands seem to be used in combination with other commands.
 
-#### Available command
-passLoading - It forcibly skips the intro that appears when launching the game and moves to the login screen.
-
-#### Unverified command
-bypassMode , usePerfHud , carRenderLod2 , cameraRot , rawFolder , iamshuruk
-
-1122qq - If you include this command and run the game, the game does not start and creates a dmp.
-
-iamqa , enableDevInfo - It's an internal developer team command, but I couldn't find a use for it.
-
-dataPackOff - A command that allows me to run the game with DataRaw(unpacked), but it doesn't work.
-
+### List
+usePerfHud
+carRenderLod2
+dataPackOff
+bypassMode enable loginId channel
+iamqa
+iamshuruk pw 1122qq
+passLoading
+enableDevInfo
+cameraRot
+autoRUN
+rawFolder
+ 
