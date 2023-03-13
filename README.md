@@ -1,5 +1,4 @@
-<!-- 게임이라는 취미는 잠시 멀리하고 제 인생의 터닝포인트를 집중해야 할 시간이라고 생각합니다. 다들 힘내시길 바랍니다. -->
-<img src="https://cdn.discordapp.com/attachments/1007603247491579904/1033734437160091679/rc.png"  width="128" height="auto">
+ <img src="https://cdn.discordapp.com/attachments/1007603247491579904/1033734437160091679/rc.png"  width="128" height="auto">
 
 ## Raycity Client
 [Server + Client + DB](https://drive.google.com/file/d/1FqvwlxtqDCkRy7KGYMwytcfSkeZxE_gc/view?usp=share_link)
@@ -133,10 +132,6 @@ loadenv - Change the weather (sunset, day, sunrise, night, night_kr, night_d1)
 
 ## Config.xml
 This xml file is a file that activates the private command contained in Raycity.exe
-
-Currently, we are constantly looking for commands, and there are commands that do not work.
-
-some commands seem to be used in combination with other commands.
 
 ### List
 usePerfHud
