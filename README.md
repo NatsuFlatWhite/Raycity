@@ -8,7 +8,7 @@
 ## Server Setup Guide
 - The Raycity server is optimized for SEA 590 (Release date : 2011-07-29)
 - **The current database and server have not fully recovered and are incomplete**
-- [Developer Discord](https://discord.gg/DRBYQnpS5S)
+- [Developer Discord](https://discord.gg/DRBYQnpS5S) <!-- Discord Channel with pink princess and sick people  If you check this out. Run away from this game -->
 ### DataBase
 Microsoft Sql Server 2019 install
 
