@@ -1,4 +1,4 @@
- <img src="https://cdn.discordapp.com/attachments/1007603247491579904/1033734437160091679/rc.png"  width="128" height="auto">
+ <img src="https://raw.githubusercontent.com/imhatepython/Raycity/main/logo.png"  width="128" height="auto">
 
 ## Raycity Client
 [Server + Client + DB](https://drive.google.com/file/d/1FqvwlxtqDCkRy7KGYMwytcfSkeZxE_gc/view?usp=share_link)
