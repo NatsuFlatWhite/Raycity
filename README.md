@@ -22,7 +22,7 @@ CenterServer - config.xml info_server.xml
 GameServer , Agent - config.xml
 
 enter your IP
-
+</br>
 To connect the DB to the center server you must enter the server address, ID, password in config.xml
 
 ### Client
