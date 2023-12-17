@@ -102,7 +102,7 @@ run start - Ignore the count and start the extreme race
 
 run stop - You can end an extreme race that is currently in progress
 
-Itemlist - You can search for items registered in the database (ex. itemlist Zeta Engine 2.9 Normal)
+Itemlist - You can search for items registered in the database (ex. itemlist Theta Engine 2.9 Normal)
 
 move - You can move to a reset position near the coordinates you entered. (Go to the entered coordinates when used in field racing)
 
