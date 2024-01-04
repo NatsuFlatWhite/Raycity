@@ -1,4 +1,6 @@
  <img src="https://raw.githubusercontent.com/imhatepython/Raycity/main/logo.png"  width="128" height="auto">
+This project is not related to private servers currently operated for commercial purposes.</br>
+We would like to inform you that this is a project created by an individual for the purpose of simple study and research.
 
 ## Raycity Client
 [Server + Client + DB](https://drive.google.com/file/d/1FqvwlxtqDCkRy7KGYMwytcfSkeZxE_gc/view?usp=share_link)
