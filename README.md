@@ -98,7 +98,7 @@ race track - The field racing track is changed to match the value (See RaceAgent
 
 race finish - finish the race immediately
 
-wcolor 255 255 255 - You can change the color of the weather by entering a command to match the RGB values.
+wcolor R G B - You can change the color of the weather by entering a command to match the RGB values.
 
 run start - Ignore the count and start the extreme race
 
@@ -133,7 +133,16 @@ movplay - Automated driving without destination (Value : 0 stop 1 start)
 loadenv - Change the weather (sunset, day, sunrise, night, night_kr, night_d1)
 
 ## Config.xml
-This xml file is a file that activates the private command contained in Raycity.exe
+This xml file is a file that activates the **Private Command** contained in Raycity.exe
+</br>
+- usePerfHud is short for Performance Heads Up DisPlay</br>
+- If you enableDevInfo The developer-only console is activated & UsepassPatcher will work by default.</br>
+- When using dataPackOff you can run the game with the data unpacked through the DataRaw folder.</br> 
+- passLoading is activated the video intro and loading at the beginning of the game are bypassed</br>
+- iamshuruk acts as an activation key for some commands</br>
+- iamqa provides private functions used by the QA team</br>
+- bypassMode omits the ID input/channel entry process</br>
+- RawFolder is a command related to the DataRaw folder
 
 ### List
 usePerfHud
