@@ -1,6 +1,7 @@
  <img src="https://raw.githubusercontent.com/imhatepython/Raycity/main/logo.png"  width="128" height="auto">
-This project is not related to private servers currently operated for commercial purposes.</br>
-We would like to inform you that this is a project created by an individual for the purpose of simple study and research.
+ 
+This project is not related to private servers currently operated for **commercial purposes**</br>
+inform you that this is created by an individual for the purpose of simple study and research
 
 ## Raycity Client
 [Server + Client + DB](https://drive.google.com/file/d/1FqvwlxtqDCkRy7KGYMwytcfSkeZxE_gc/view?usp=share_link)
@@ -9,6 +10,7 @@ We would like to inform you that this is a project created by an individual for 
 
 ## Server Setup Guide
 - The Raycity server is optimized for SEA 590 (Release date : 2011-07-29)
+- Running higher clients requires internal packet modification of the server
 - **The current database and server have not fully recovered and are incomplete**
 - [Developer Discord](https://discord.gg/DRBYQnpS5S) <!-- Discord Channel with pink princess and sick people  If you check this out. Run away from this game -->
 ### DataBase
@@ -25,6 +27,7 @@ GameServer , Agent - config.xml
 
 enter your IP
 </br>
+
 To connect the DB to the center server you must enter the server address, ID, password in config.xml
 
 ### Client
@@ -62,7 +65,7 @@ The Jamsil portal in the COEX Town has been modified to work for the client
 Quest NPC illustration load normally
 
 ### Racing
-Changed the field racing fence to blue
+Changed the field racing fence to blue (Fence that was only patched on the Korean live server)
 
 Added a dummy racing track (A track that has been removed from the official server has also been added)
 
