@@ -143,7 +143,7 @@ This xml file is a file that activates the **Private Command** contained in Rayc
 - When using dataPackOff you can run the game with the data unpacked through the DataRaw folder.</br> 
 - passLoading is activated the video intro and loading at the beginning of the game are bypassed</br>
 - iamshuruk acts as an activation key for some commands</br>
-- iamqa provides private functions used by the QA team</br>
+- iamqa provides private functions used by the QA team (For example you can gain access to the internal QA server) </br>
 - bypassMode omits the ID input/channel entry process</br>
 - RawFolder is a command related to the DataRaw folder
 
