@@ -57,7 +57,7 @@ You can enable news by changing the news host URL in Raycity.0m to a local host 
 
 profile creation system Fixed Now it works fine. 
 
-NPC mission on the field are partially functional
+Field NPC missions operate normally
 
 The Jamsil portal in the COEX Town has been modified to work for the client
 
@@ -70,7 +70,7 @@ Changed the field racing fence to blue (Fence that was only patched on the Korea
 
 Added a dummy racing track (A track that has been removed from the official server has also been added)
 
-You can load UI 2 and item mode
+Load UI 2 and item mode
 
 ## Korean Stringbag
 
