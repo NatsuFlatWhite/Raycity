@@ -77,7 +77,7 @@ RoadFight
 
 Field Environment Event
 
-### Datasbub
+### Datasub
 Web Loading Image
 
 Upload Image
@@ -86,7 +86,7 @@ AD
 
 News
 
-Manual <!-- Logo Stage Intro Video from developers and publisher -->
+Manual <!-- Logo Stage Intro Video from Neowiz and EA -->
 
 ### Racing
 Changed the field racing fence to blue (Fence that was only patched on the Korean live server)
