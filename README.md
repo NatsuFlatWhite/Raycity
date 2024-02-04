@@ -49,11 +49,19 @@ New Town (Dark City) Traffic Cars
 
 Saha Tunnel Village Portal opened in Dogok-dong Village
 
+LuckySpot Lucky Rain
+
+Facebook
+
+Take A Rest and Korean Grade
+
+Beginner Help manual
+
+File recovery system (Fileinfo.0m Features that only existed on Korea server)
+
 UsepassPatcher (Available in all versions)
 
 Skill use information loads properly
-
-You can enable news by changing the news host URL in Raycity.0m to a local host or using hosting
 
 profile creation system Fixed Now it works fine. 
 
@@ -63,14 +71,31 @@ The Jamsil portal in the COEX Town has been modified to work for the client
 
 Quest NPC illustration load normally
 
+Guild System and Zone Battle
+
 RoadFight 
+
+Field Environment Event
+
+### Datasbub
+Web Loading Image
+
+Upload Image
+
+AD
+
+News
+
+Manual <!-- Logo Stage Intro Video from developers and publisher -->
 
 ### Racing
 Changed the field racing fence to blue (Fence that was only patched on the Korean live server)
 
 Added a dummy racing track (A track that has been removed from the official server has also been added)
 
-Load UI 2 and item mode
+Load UI.2 and item mode
+
+Rejoin Button
 
 ## Korean Stringbag
 
