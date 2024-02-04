@@ -203,7 +203,7 @@ rawFolder
 
 파일 암호화가 생각보다 단순해서 내가 좀 친다 생각이 드신다면 한번 시도해 보시면 좋은 결과가 있을겁니다.
 
-## Comtent
+## Content
 Exterior2 & Jewel
 
 Saver System
