@@ -10,6 +10,7 @@ inform you that this is created by an individual for the purpose of simple study
 
 ## Server Setup Guide
 - The Raycity server is optimized for SEA 590 (Release date : 2011-07-29)
+<!-- The 1.598 shared by 57091 is not the real version the real version is 1.590 -->
 - Running higher clients requires internal packet modification of the server
 - **The current database and server have not fully recovered and are incomplete**
 - [Developer Discord](https://discord.gg/DRBYQnpS5S) <!-- Discord Channel with pink princess and sick people  If you check this out. Run away from this game -->
