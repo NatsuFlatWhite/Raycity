@@ -6,7 +6,7 @@ inform you that this is created by an individual for the purpose of simple study
 ## Raycity Client
 [Server + Client + DB](https://drive.google.com/file/d/1FqvwlxtqDCkRy7KGYMwytcfSkeZxE_gc/view?usp=share_link)
 
-[Microsoft Sql Server 2019](https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads)
+[Microsoft Sql Server](https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads)
 
 ## Server Setup Guide
 - The Raycity server is optimized for SEA 590 (Release date : 2011-07-29)
@@ -14,7 +14,7 @@ inform you that this is created by an individual for the purpose of simple study
 - **The current database and server have not fully recovered and are incomplete**
 - [Developer Discord](https://discord.gg/DRBYQnpS5S) <!-- Discord Channel with pink princess and sick people  If you check this out. Run away from this game -->
 ### DataBase
-Microsoft Sql Server 2019 install
+Microsoft Sql Server install
 
 [Database Restore](https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/restore-a-database-backup-using-ssms?view=sql-server-ver16)
 
@@ -42,15 +42,13 @@ Change the Port from 2180 to 2080
 thunterhk.exe -> Client -> 0m encrypt
 
 ## Note
-CarShop Legend Slot (Client -> Data -> ui -> shopstage)
+Legend System
 
-New Town traffic cars
+New Town (Dark City) Traffic Cars
 
 Saha Tunnel Village Portal opened in Dogok-dong Village
 
 UsepassPatcher (Available in all versions)
-
-Loginstage GameGrade load (However, it disappears when you login to the game.) 
 
 Skill use information loads properly
 
@@ -64,10 +62,14 @@ The Jamsil portal in the COEX Town has been modified to work for the client
 
 Quest NPC illustration load normally
 
+RoadFight 
+
 ### Racing
 Changed the field racing fence to blue (Fence that was only patched on the Korean live server)
 
 Added a dummy racing track (A track that has been removed from the official server has also been added)
+
+You can load UI 2 and item mode
 
 ## Korean Stringbag
 
@@ -174,3 +176,43 @@ rawFolder
 항상 리버스 레이시티에 대한 의문점이 많았는데 리버스도 이 파일의 암호화를 풀어서 데이터를 얻은걸로 추측이 됩니다.
 
 파일 암호화가 생각보다 단순해서 내가 좀 친다 생각이 드신다면 한번 시도해 보시면 좋은 결과가 있을겁니다.
+
+## Comtent
+Exterior2 & Jewel
+
+Saver System
+
+help Beginner System
+
+lampEffect
+
+CharacterName
+
+Season Shop
+
+BullsShop
+
+chkstoragePwd
+
+NWPcBang ICafe
+
+SingleCore
+
+FieldEnvironment
+
+Login&LoadingStage GameGrade load
+
+tournamentPoint
+
+SkillCancel
+
+transformWideWheel
+
+Guild
+
+<!-- 
+Tricod nwServiceMonitor nprotect uploadimage fontBufferSize boosterPaint Turbocharger Underneon coatingPaint TPart fontBufferSize chkDataSubDate CannotMoveToTownUntilUserLevel5 CoexTownClosed grade useSingleCore Exterior2Open exteriorJewel FieldRaceEnable FieldEnvironment Saver BullsShop BoosterColor chkstoragePwd helpBeginnerSystem lampEffect tournamentPoint randomCapsule changeCharacterName seasonShop hasLegendSystem news ICafe transformWideWheel newtown RentacarAcquisition noPolish metalicPaint hasNewGuild2011 exteriorItem coatingPaint boosterPaint useSingleCore hasUserShop UseWebLoadingImage GuildNetURL Tricod.MediaID Tricod_QA.MediaID uploadimage hasDealSystem Race.NoLobby Race.Item Race.ItemBeta
+
+
+귀한거 몇개빼곤 싹다 올렸어요 빼먹은 몇개는 눈치 챙기라고 아 ㅋㅋ~
+-->
