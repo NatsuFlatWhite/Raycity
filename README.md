@@ -214,5 +214,6 @@ Guild
 Tricod nwServiceMonitor nprotect uploadimage fontBufferSize boosterPaint Turbocharger Underneon coatingPaint TPart fontBufferSize chkDataSubDate CannotMoveToTownUntilUserLevel5 CoexTownClosed grade useSingleCore Exterior2Open exteriorJewel FieldRaceEnable FieldEnvironment Saver BullsShop BoosterColor chkstoragePwd helpBeginnerSystem lampEffect tournamentPoint randomCapsule changeCharacterName seasonShop hasLegendSystem news ICafe transformWideWheel newtown RentacarAcquisition noPolish metalicPaint hasNewGuild2011 exteriorItem coatingPaint boosterPaint useSingleCore hasUserShop UseWebLoadingImage GuildNetURL Tricod.MediaID Tricod_QA.MediaID uploadimage hasDealSystem Race.NoLobby Race.Item Race.ItemBeta
 
 
-귀한거 몇개빼곤 싹다 올렸어요 빼먹은 몇개는 눈치 챙기라고 아 ㅋㅋ~
+귀한거 몇개빼곤 싹다 올렸어요 빼먹은 몇개는 눈치 챙겨~~
+이거 봤으면 나머지 애들도 어디서 찾으면 되는지 알거라 생각합니다!
 -->
