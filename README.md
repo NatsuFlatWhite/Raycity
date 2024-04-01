@@ -14,7 +14,8 @@ inform you that this is created by an individual for the purpose of simple study
 - Running higher clients requires internal packet modification of the server
 <!-- How many years will it take before the average person sees the LevelBoost Run_Night CapsulePoint TPart Emblem CrashTime Turbocharger Environment Underneon? XD -->
 - **The current database and server have not fully recovered and are incomplete**
-- [Developer Discord](https://discord.gg/DRBYQnpS5S) <!-- Discord Channel with pink princess and sick people  If you check this out. Run away from this game -->
+<!-- Discord Channel with pink princess and sick people  If you check this out. Run away from this game -->
+- [Developer Discord](https://discord.gg/DRBYQnpS5S)
 ### DataBase
 Microsoft Sql Server install
 
@@ -77,6 +78,8 @@ Guild System and Zone Battle
 RoadFight 
 
 Field Environment Event
+
+UnderNeon
 
 ### Datasub
 Web Loading Image
