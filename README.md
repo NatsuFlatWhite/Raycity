@@ -11,11 +11,10 @@ inform you that this is created by an individual for the purpose of simple study
 ## Server Setup Guide
 - The Raycity server is optimized for SEA 590 (Release date : 2011-07-29)
 <!-- The 1.598 shared by 57091 is not the real version the real version is 1.590 -->
-- Running higher clients requires internal packet modification of the server
+- **Running higher clients** requires internal **packet modification** of the server
 <!-- How many years will it take before the average person sees the LevelBoost Run_Night CapsulePoint TPart Emblem CrashTime Turbocharger Environment Underneon? XD -->
 - **The current database and server have not fully recovered and are incomplete**
-<!-- Discord Channel with pink princess and sick people  If you check this out. Run away from this game -->
-- [Developer Discord](https://discord.gg/DRBYQnpS5S)
+
 ### DataBase
 Microsoft Sql Server install
 
@@ -59,7 +58,7 @@ Take A Rest and Korean Grade
 
 Beginner Help manual
 
-File recovery system (Fileinfo.0m Features that only existed on Korea server)
+File recovery system (Fileinfo.0m Features that only existed on Korea server) <!-- nwParam --> <!-- Logo Stage Intro Video from Neowiz and EA -->
 
 UsepassPatcher (Available in all versions)
 
@@ -71,15 +70,21 @@ Field NPC missions operate normally
 
 The Jamsil portal in the COEX Town has been modified to work for the client
 
-Quest NPC illustration load normally
+Quest NPC illustration load normally / The NPC dialogue script is displayed <!-- NPC dialogue script is the structure of xml -->
 
 Guild System and Zone Battle
 
 RoadFight 
 
-Field Environment Event
+[Korea Game Forced Shutdown System](https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B2%AD%EC%86%8C%EB%85%84%EB%B3%B4%ED%98%B8%EB%B2%95/(20210101,17761,20201229)/%EC%A0%9C26%EC%A1%B0) <!-- wrShutdownMsg 셧다운시간이 되어 게임이 종료 됩니다. -->
 
-UnderNeon
+Field Environment Event / Xtreme Night
+
+Under Neon / Emblem / TPart / Saver
+
+LevelBoost
+
+Crash Time
 
 ### Datasub
 Web Loading Image
@@ -90,7 +95,7 @@ AD
 
 News
 
-Manual <!-- Logo Stage Intro Video from Neowiz and EA -->
+Manual
 
 ### Racing
 Changed the field racing fence to blue (Fence that was only patched on the Korean live server)
@@ -167,6 +172,12 @@ movplay - Automated driving without destination (Value : 0 stop 1 start)
 
 loadenv - Change the weather (sunset, day, sunrise, night, night_kr, night_d1)
 
+headlight - Turns the headlights on and off
+
+signborad - Turn the signboard light on and off
+
+Other commands can be found through analysis
+
 ## Config.xml
 This xml file is a file that activates the **Private Command** contained in Raycity.exe
 </br>
@@ -201,7 +212,7 @@ rawFolder
 
 이 파일은 특정 지정된 테이블의 수정이나 새로운 열이 추가가 된되면 그걸 받아와서 저장을 합니다.
 
-이걸 본섭 파일로 생각을 한다면 서비스 종료 직전까지 유지된 스톡 아이템리스트 스트링백 +@ 파일들이 있는겁니다.
+이걸 본섭 파일로 생각을 한다면 서비스 종료 직전까지 유지된 스톡 아이템리스트 스트링백 로드파이터+@ 파일들이 있는겁니다.
 
 항상 리버스 레이시티에 대한 의문점이 많았는데 리버스도 이 파일의 암호화를 풀어서 데이터를 얻은걸로 추측이 됩니다.
 
@@ -240,10 +251,5 @@ transformWideWheel
 
 Guild
 
-<!-- 
-Tricod nwServiceMonitor nprotect uploadimage fontBufferSize boosterPaint Turbocharger Underneon coatingPaint TPart fontBufferSize chkDataSubDate CannotMoveToTownUntilUserLevel5 CoexTownClosed grade useSingleCore Exterior2Open exteriorJewel FieldRaceEnable FieldEnvironment Saver BullsShop BoosterColor chkstoragePwd helpBeginnerSystem lampEffect tournamentPoint randomCapsule changeCharacterName seasonShop hasLegendSystem news ICafe transformWideWheel newtown RentacarAcquisition noPolish metalicPaint hasNewGuild2011 exteriorItem coatingPaint boosterPaint useSingleCore hasUserShop UseWebLoadingImage GuildNetURL Tricod.MediaID Tricod_QA.MediaID uploadimage hasDealSystem Race.NoLobby Race.Item Race.ItemBeta
+Content statements other than lists can be found through analysis
 
-
-귀한거 몇개빼곤 싹다 올렸어요 빼먹은 몇개는 눈치 챙겨~~
-이거 봤으면 나머지 애들도 어디서 찾으면 되는지 알거라 생각합니다!
--->
