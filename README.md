@@ -1,4 +1,8 @@
 <img src="https://raw.githubusercontent.com/imhatepython/Raycity/main/logo.png"  width="128" height="auto">
+
+[Raycity](https://mm.pmang.kr/pmang/raycity/event/20130329/popup.html#none) is an openworld MMO Racing Game set in Seoul developed by [J2M Soft](https://www.ea.com/ko-kr/ea-studios/ea-korea) and published by [Neowiz](https://www.neowiz.com)
+
+##
  
 This project is not related to private servers currently operated for **commercial purposes**</br>
 inform you that this is created by an individual for the purpose of simple study and research
