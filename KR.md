@@ -68,7 +68,7 @@ pcbang - 레이시티 PC방 버프를 획득합니다.
 
 legendpoint - 레전드 포인트를 획득합니다. 
 
-loadcar - 급별 레이싱 혹은 질주/폭주에서 원래 차량을 불러옵니다.
+loadcar - 급 별 레이싱 혹은 질주/폭주에서 원래 차량을 불러옵니다.
 
 misson - 필드 NPC 미션을 원하는 단계로 클리어합니다. (1-Poor 2-Normal 3-Good 4-Great 5-Exellent)
 
@@ -106,7 +106,7 @@ rp - RP를 추가합니다.
 
 inventory - 물품창에 보유하고 있는 아이템을 확인할 수 있습니다.
 
-movplay - 추격차량이 됩니다. (값 : 0 stop 1 start)
+movplay - 추격차량이 됩니다. (값 : 0 stop / 1 start)
 
 loadenv - 날씨를 변경할 수 있습니다. (sunset, day, sunrise, night, night_kr, night_d1)
 
