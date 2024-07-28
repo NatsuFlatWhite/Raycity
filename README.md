@@ -14,9 +14,7 @@ inform you that this is created by an individual for the purpose of simple study
 
 ## Server Setup Guide
 - The Raycity server is optimized for SEA 590 (Release date : 2011-07-29)
-<!-- The 1.598 shared by 57091 is not the real version the real version is 1.590 -->
 - **Running higher clients** requires internal **packet modification** of the server
-<!-- How many years will it take before the average person sees the LevelBoost Run_Night CapsulePoint TPart Emblem CrashTime Turbocharger Environment Underneon? XD -->
 - **The current database and server have not fully recovered and are incomplete**
 
 ### DataBase
@@ -62,7 +60,7 @@ Take A Rest and Korean Grade
 
 Beginner Help manual
 
-File recovery system (Fileinfo.0m Features that only existed on Korea server) <!-- nwParam --> <!-- Logo Stage Intro Video from Neowiz and EA -->
+File recovery system (Fileinfo.0m Features that only existed on Korea server)
 
 UsepassPatcher (Available in all versions)
 
@@ -74,7 +72,7 @@ Field NPC missions operate normally
 
 The Jamsil portal in the COEX Town has been modified to work for the client
 
-Quest NPC illustration load normally / The NPC dialogue script is displayed <!-- NPC dialogue script is the structure of xml -->
+Quest NPC illustration load normally / The NPC dialogue script is displayed
 
 Guild System and Zone Battle
 
@@ -208,52 +206,11 @@ autoRUN
 rawFolder 
 
 ## DataSub
-저는 과거 이 2011 SG 다크시티 서버팩에선 데이터서브와 통신은 뉴스와 베스트 스크린샷 + etc의 일부 기능만 제대로 작동하는 줄 알았습니다.
+This is a description of the data00~21.0m files.
 
-하지만 그게 아니라 그 서버는 멀쩡한 서버였고 기타 통신까지 전부 가능한 공식 서버팩이 맞았습니다.
+This file receives and saves when a specific table is modified or a new column is added.
 
-중요한 요점은 데이터서브에 있는 data00~21.0m 이 파일인데
+That means that the official server save data contains stock, itemlist, Stringbag, Road Fighter+@ files that were maintained until just before the end of the service.
 
-이 파일은 특정 지정된 테이블의 수정이나 새로운 열이 추가가 된되면 그걸 받아와서 저장을 합니다.
-
-이걸 본섭 파일로 생각을 한다면 서비스 종료 직전까지 유지된 스톡 아이템리스트 스트링백 로드파이터+@ 파일들이 있는겁니다.
-
-항상 리버스 레이시티에 대한 의문점이 많았는데 리버스도 이 파일의 암호화를 풀어서 데이터를 얻은걸로 추측이 됩니다.
-
-파일 암호화가 생각보다 단순해서 내가 좀 친다 생각이 드신다면 한번 시도해 보시면 좋은 결과가 있을겁니다.
-
-## Content
-Exterior2 & Jewel
-
-Saver System
-
-help Beginner System
-
-lampEffect
-
-CharacterName
-
-Season Shop
-
-BullsShop
-
-chkstoragePwd
-
-NWPcBang ICafe
-
-SingleCore
-
-FieldEnvironment
-
-Login&LoadingStage GameGrade load
-
-tournamentPoint
-
-SkillCancel
-
-transformWideWheel
-
-Guild
-
-Content statements other than lists can be found through analysis
+In the case of a private server containing the original data it is likely that the contents of the file were obtained by decrypting the file.
 
