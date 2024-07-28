@@ -58,7 +58,7 @@ thunterhk.exe -> Client -> 0m encrypt
 
 한국 서버 기능인 재입장 버튼을 사용할 수 있습니다.
 
-## 치트코드
+## 치트 코드
 GlobalAccount -> RC_Account -> AccountState 값을 126으로 변경한 후 AdminIPList에서 관리자 IP를 변경하여 관리자 콘솔을 활성화합니다.
 
 ### Command List
@@ -117,7 +117,7 @@ signborad - 간판을 끄거나 켤 수 있습니다.
 이 외의 명령어는 분석을 통해 얻을 수 있습니다.
 
 ## Config.xml
-이 xml 파일은 Raycity.exe에 포함된 Private Command를 활성화하는 파일입니다.
+이 xml 파일은 Raycity.exe에 포함된 내부 개발자 전용 명령어를 활성화하는 파일입니다.
 </br>
 - usePerfHud는 Performance Heads Up DisPlay의 약자입니다.</br>
 - DevInfo를 활성화하면 개발자 전용 콘솔이 활성화되고 passPatcher가 기본적으로 작동합니다.</br>
