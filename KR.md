@@ -50,7 +50,7 @@ HxD를 통해 IP와 포트를 수정하세요.
 thunterhk.exe -> Client -> 0m encrypt
 
 ## 레이싱
-필드 레이싱 펜스를 파란색으로 변경 하였습니다. (해당 펜스는 한국 서버만 적용된 펜스입니다.)
+필드 레이싱 펜스를 파란색으로 변경 하였습니다. [(해당 펜스는 한국 서버만 적용된 펜스입니다.)](https://blog.naver.com/kt1455/90146161907) 
 
 공식 서버에서 사용되지 않았거나 삭제된 트랙을 추가했습니다.
 
@@ -61,7 +61,7 @@ thunterhk.exe -> Client -> 0m encrypt
 ## 치트 코드
 GlobalAccount -> RC_Account -> AccountState 값을 126으로 변경한 후 AdminIPList에서 관리자 IP를 변경하여 관리자 콘솔을 활성화합니다.
 
-### Command List
+### 명령어 리스트
 help - 일부 커맨드를 확인할 수 있습니다.
 
 pcbang - 레이시티 PC방 버프를 획득합니다.
