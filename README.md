@@ -19,7 +19,7 @@
 </p>
 
 [Raycity](https://mm.pmang.kr/pmang/raycity/event/20130329/popup.html#none) is an openworld MMO Racing Game set in Seoul developed by [J2M Soft](https://www.ea.com/ko-kr/ea-studios/ea-korea)</br>
-published by [Neowiz](https://www.neowiz.com)'s Game Portal [Pmang](https://www.pmang.com)
+published by [Neowiz](https://www.neowiz.com)'s Game Portal [Pmang](http://file.pmang.com/html/pmang/404/game/314_error.html)
 
 ##
  
