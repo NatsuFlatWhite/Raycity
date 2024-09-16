@@ -15,13 +15,13 @@
 ##
 이 리포지토리는 **상업적인 목적의 개인 서버**와는 관련이 없습니다.
 
-## Raycity Client
-[DB/서버/클라이언트](https://drive.google.com/file/d/1FqvwlxtqDCkRy7KGYMwytcfSkeZxE_gc/view?usp=share_link)
+## 유틸리티
+[DB 서버 /클라이언트](https://drive.google.com/file/d/1FqvwlxtqDCkRy7KGYMwytcfSkeZxE_gc/view?usp=share_link)
 
 [Microsoft Sql Server](https://www.microsoft.com/ko-kr/sql-server/sql-server-downloads)
 
 ## 서버 설정 가이드
-- 해당 레이시티 서버는 SEA 590 버전에 최적화 되어 있습니다. (릴리즈 날짜 : 2011-07-29)
+- 해당 레이시티 서버는 지역코드 SG(SEA) 1.590.0.1 다크시티 1차 업데이트 버전에 최적화 되어 있습니다. (릴리즈 날짜 : 2011-07-29)
 - **더 높은 클라이언트**를 구동하려면 **패킷 분석**과 **역공학**이 필요합니다.
 - **현재 데이터베이스 및 서버는 완전히 복구되지 않았으며 불완전합니다.**
 
@@ -122,13 +122,13 @@ signborad - 간판을 끄거나 켤 수 있습니다.
 ## Config.xml
 이 xml 파일은 Raycity.exe에 포함된 내부 개발자 전용 명령어를 활성화하는 파일입니다.
 </br>
-- usePerfHud는 Performance Heads Up DisPlay의 약자입니다.</br>
+- usePerfHud는 Use Performance Heads Up DisPlay의 약자입니다.</br>
 - DevInfo를 활성화하면 개발자 전용 콘솔이 활성화되고 passPatcher가 기본적으로 작동합니다.</br>
 - dataPackOff를 사용하면 DataRaw 폴더를 통해 언팩된 데이터로 게임을 실행할 수 있습니다.</br> 
 - passLoading이 활성화 된다면 게임 시작 시 비디오 인트로 및 로딩이 무시됩니다.</br>
 - iamshuruk는 일부 명령에 대한 활성화 키 역할을 합니다.</br>
 - iamqa는 QA 팀에서 사용하는 기능을 제공합니다.</br>
-- bypassMode는 ID 입력/채널 진입 프로세스를 생략하고 접속할 수 있습니다.
+- bypassMode는 ID 입력/채널 진입 과정을 생략하고 접속할 수 있습니다.
 
 ### 리스트
 usePerfHud
@@ -152,4 +152,4 @@ rawFolder
 
 본섭 데이터를 가지고 있는 서버의 경우 이 방법을 통해 얻어낸 걸로 추측할 수 있습니다.
 
-파일 암호화가 생각보다 단순해서 내가 좀 친다 생각이 드신다면 한 번 시도해 보시면 좋은 결과가 있을겁니다.
+파일 암호화가 <!-- JMD 파일의 암호화 구조를 알고 있다면..--> 생각보다 단순해서 내가 좀 친다 생각이 드신다면 한 번 시도해 보시면 좋은 결과가 있을겁니다.
