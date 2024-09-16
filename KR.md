@@ -8,7 +8,10 @@
 
 <img src="title.jpg"  width="auto" height="auto">
 
-[레이싱특별시 레이시티](https://mm.pmang.kr/pmang/raycity/event/20130329/popup.html#none)는 [제이투엠소프트](https://www.ea.com/ko-kr/ea-studios/ea-korea)에서 개발하고 [네오위즈 게임즈](https://www.neowiz.com)사의 게임 포털 [피망](https://www.pmang.com)에서 서비스가 되었던 게임입니다.
+<p align="center">
+  수천대가 함께 서울을 달리는 레이싱특별시 레이시티~
+  
+[레이싱특별시 레이시티](https://mm.pmang.kr/pmang/raycity/event/20130329/popup.html#none)는 [제이투엠소프트](https://www.ea.com/ko-kr/ea-studios/ea-korea)에서 개발하고 [네오위즈 게임즈](https://www.neowiz.com)사의 게임 포털 [피망](http://file.pmang.com/html/pmang/404/game/314_error.html)에서 서비스가 되었던 게임입니다.
 ##
 이 리포지토리는 **상업적인 목적의 개인 서버**와는 관련이 없습니다.
 
