@@ -22,6 +22,8 @@
 published by [Neowiz](https://www.neowiz.com)'s Game Portal [Pmang](http://file.pmang.com/html/pmang/404/game/314_error.html) It was also available to play on [Tooniland](https://youtu.be/5IUQHmeKHD0?si=juyYJT0nqMHy-X_c) and [Bugs](https://game.bugs.co.kr/)
 
 ##
+
+The repository which had been private for some time was made public as of May 17 2025
  
 This project is not related to private servers currently operated for **commercial purposes**</br>
 inform you that this is created by an individual for the purpose of simple study and research
