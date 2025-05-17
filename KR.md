@@ -11,7 +11,7 @@
 <p align="center">
   수천대가 함께 서울을 달리는 레이싱특별시 레이시티~
   
-[레이싱특별시 레이시티](https://mm.pmang.kr/pmang/raycity/event/20130329/popup.html#none)는 [제이투엠소프트](https://www.ea.com/ko-kr/ea-studios/ea-korea)에서 개발하고 [네오위즈 게임즈](https://www.neowiz.com)사의 게임 포털 [피망](http://file.pmang.com/html/pmang/404/game/314_error.html) <!-- 이 링크는 http로 들어가면 레이시티 이미지가 뜬다.-->에서 서비스가 되었던 게임입니다. </br>
+[레이싱특별시 레이시티](https://mm.pmang.kr/pmang/raycity/event/20130329/popup.html#none)는 [제이투엠소프트](https://www.ea.com/ko-kr/ea-studios/ea-korea)에서 개발하고 [네오위즈 게임즈](https://www.neowiz.com)사의 게임 포털 [피망](http://file.pmang.com/html/pmang/404/game/314_error.html)<!-- 이 링크는 http로 들어가면 레이시티 이미지가 뜬다.-->에서 서비스가 되었던 게임입니다. </br>
 또한, 채널링 서비스를 통해 [투니랜드](https://youtu.be/5IUQHmeKHD0?si=juyYJT0nqMHy-X_c)와 [벅스 피망](https://game.bugs.co.kr/)에서도 플레이가 가능했습니다.
 ##
 이 리포지토리는 **상업적인 목적의 개인 서버**와는 관련이 없습니다.
@@ -31,7 +31,7 @@ Microsoft Sql Server를 설치합니다.
 
 [데이터베이스 복원](https://learn.microsoft.com/ko-kr/sql/relational-databases/backup-restore/restore-a-database-backup-using-ssms?view=sql-server-ver16)을 합니다.
 
-Sql Server 구성 관리자 ->  SQL Native Client 11.0 구성 -> 클라이언트 프로토콜을 모두 사용으로 변경합니다.</br>
+Sql Server 구성 관리자 → SQL Native Client 11.0 구성 → 클라이언트 프로토콜을 모두 사용으로 변경합니다.</br>
 
 ### 서버
 CenterServer - config.xml info_server.xml
@@ -43,7 +43,7 @@ GameServer , Agent - config.xml
 DB를 센터 서버에 연결하려면 config.xml에서 서버 이름과 계정 정보를 입력해야 연동됩니다.
 
 ### 클라이언트
-Tools -> Daily Tools -> thunterhk.exe -> Client -> 0m decrypt -> Raycity.0m을 선택합니다.
+Tools → Daily Tools → thunterhk.exe → Client → 0m decrypt → Raycity.0m을 선택합니다.
 
 [HxD](https://mh-nexus.de/en/downloads.php?product=HxD20)를 설치합니다.
 
@@ -51,7 +51,7 @@ HxD를 통해 IP와 포트를 수정하세요.
 
 포트를 2180에서 2080으로 변경하세요.
 
-thunterhk.exe -> Client -> 0m encrypt
+thunterhk.exe → 0m encrypt
 
 ## 레이싱
 필드 레이싱 펜스를 파란색으로 변경 하였습니다. [(해당 펜스는 한국 서버만 적용된 펜스입니다.)](https://blog.naver.com/kt1455/90146161907) 
@@ -63,7 +63,7 @@ thunterhk.exe -> Client -> 0m encrypt
 한국 서버 기능인 재입장 버튼을 사용할 수 있습니다.
 
 ## 치트 코드
-GlobalAccount -> RC_Account -> AccountState 값을 126으로 변경한 후 AdminIPList에서 관리자 IP를 변경하여 관리자 콘솔을 활성화합니다.
+Database → GlobalAccount → RC_Account → AccountState 값을 126으로 변경한 후 AdminIPList에서 관리자 IP를 변경하여 관리자 콘솔을 활성화합니다.
 
 ### 명령어 리스트
 help - 일부 커맨드를 확인할 수 있습니다.
