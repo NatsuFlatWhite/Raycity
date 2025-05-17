@@ -11,7 +11,7 @@
 <p align="center">
   수천대가 함께 서울을 달리는 레이싱특별시 레이시티~
   
-[레이싱특별시 레이시티](https://mm.pmang.kr/pmang/raycity/event/20130329/popup.html#none)는 [제이투엠소프트](https://www.ea.com/ko-kr/ea-studios/ea-korea)에서 개발하고 [네오위즈 게임즈](https://www.neowiz.com)사의 게임 포털 [피망](http://file.pmang.com/html/pmang/404/game/314_error.html)에서 서비스가 되었던 게임입니다. </br>
+[레이싱특별시 레이시티](https://mm.pmang.kr/pmang/raycity/event/20130329/popup.html#none)는 [제이투엠소프트](https://www.ea.com/ko-kr/ea-studios/ea-korea)에서 개발하고 [네오위즈 게임즈](https://www.neowiz.com)사의 게임 포털 [피망](http://file.pmang.com/html/pmang/404/game/314_error.html) <!-- 이 링크는 http로 들어가면 레이시티 이미지가 뜬다.-->에서 서비스가 되었던 게임입니다. </br>
 또한, 채널링 서비스를 통해 [투니랜드](https://youtu.be/5IUQHmeKHD0?si=juyYJT0nqMHy-X_c)와 [벅스 피망](https://game.bugs.co.kr/)에서도 플레이가 가능했습니다.
 ##
 이 리포지토리는 **상업적인 목적의 개인 서버**와는 관련이 없습니다.
@@ -86,7 +86,7 @@ run start - 질주/폭주를 시작합니다.
 
 run stop - 질주/폭주를 종료합니다.
 
-Itemlist - 아이템리스트에 등록된 아이템을 검색할 수 있습니다. (예. itemlist 김박사의 트리플 캡슐)
+Itemlist - 아이템리스트에 등록된 아이템을 검색할 수 있습니다. (예: itemlist 김박사의 트리플 캡슐)
 
 move - 입력한 좌표 근처의 재설정 위치로 이동합니다. (필드 레이싱의 경우 입력한 좌표로 이동합니다.)
 
@@ -153,4 +153,4 @@ rawFolder
 
 본섭 데이터를 가지고 있는 서버의 경우 이 방법을 통해 얻어낸 걸로 추측할 수 있습니다.
 
-파일 암호화가 <!-- JMD 파일의 암호화 구조를 알고 있다면..--> 생각보다 단순해서 내가 좀 친다 생각이 드신다면 한 번 시도해 보시면 좋은 결과가 있을겁니다.
+파일 암호화가 <!-- JMD 파일의 KRData 암호화 구조를 알고 있다면..--> 생각보다 단순해서 내가 좀 친다 생각이 드신다면 한 번 시도해 보시면 좋은 결과가 있을겁니다.
